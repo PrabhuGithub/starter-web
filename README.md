@@ -11,3 +11,6 @@ Steps to understand the deployment of the web page.
 
 ## Stage
  Adding comments to represent GIT status as modified but not added in working directory of this file.
+
+### Copyright
+ 2014 Git.Training
